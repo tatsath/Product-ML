@@ -1,5 +1,4 @@
 ##### Core packages
-jupyter==1.0.0
 matplotlib==3.0.3
 numpy==1.16.2
 pandas==0.24.2
@@ -23,7 +22,7 @@ xlrd==1.2.0
 yfinance==0.1.50
 
 ##### Additional Visualization packages
-plotly==3.10.0
+#plotly==3.10.0
 seaborn==0.9.0
 
 
