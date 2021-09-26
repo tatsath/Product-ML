@@ -1,0 +1,29 @@
+##### Core packages
+jupyter==1.0.0
+matplotlib==3.0.3
+numpy==1.16.2
+pandas==0.24.2
+scipy==1.2.1
+
+##### Machine Learning packages
+scikit-learn==0.22.2
+Keras==2.2.4
+tensorflow==1.13.1
+tensorboard==1.13.1
+# If you have a TF-compatible GPU and you want to enable GPU support, then
+# replace tensorflow with tensorflow-gpu.
+
+##### Statistics packages
+statsmodels==0.9.0
+
+##### Data Download packages
+pandas-datareader==0.7.0
+Quandl==3.4.8
+xlrd==1.2.0
+yfinance==0.1.50
+
+##### Additional Visualization packages
+plotly==3.10.0
+seaborn==0.9.0
+
+
